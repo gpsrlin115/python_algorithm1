@@ -1,4 +1,4 @@
-d# python_algorithm1
+# python_algorithm1
 
 알고리즘 과제 업로드 레포지토리입니다.   
 선형 탐색 알고리즘을 응용한 프로그램을 올립니다.   
